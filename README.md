@@ -16,7 +16,7 @@ This product is meant for users of various types. This consists of people who ar
   * 28BYJ-48 Stepper Motor
   
 ## Wiring Set Up:
-[![Image of iHome System]](https://github.com/Spiritual-Programmer/Smart-Home/blob/master/Wire%20Diagram_bb_final.png)
+![Image of iHome System](https://github.com/Spiritual-Programmer/Smart-Home/blob/master/Wire%20Diagram_bb_final.png)
 
-## Video overview of project
-[![Watch the video](https://www.youtube.com/watch?v=vMxSkkGy3KY)
+## Video Overview of Project
+[![Watch the video](https://img.youtube.com/vi/vMxSkkGy3KY/maxresdefault.jpg)](https://www.youtube.com/watch?v=vMxSkkGy3KY)
